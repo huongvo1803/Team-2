@@ -1,2 +1,1 @@
-Huong thui!:
-Huong thui 2
+Nghi Thúi quét!
